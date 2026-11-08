@@ -12,6 +12,8 @@
 [![Matrix chat](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#phoniebox_community:matrix.org)
 
 ## Introduction
+Adustment G0LDL0CKE:
+Use App from MiczFlor and add an Attiny with an Polulu-Switch to turn on/ turn off Jukebox and use more InputButtons on Raspi with Interrups from Raspi
 
 Phoniebox is a contactless jukebox for the Raspberry Pi, playing audio files, playlists, podcasts, web streams and spotify triggered by RFID cards. All plug and play via USB, no soldering iron needed. It also features GPIO buttons control support.
 
