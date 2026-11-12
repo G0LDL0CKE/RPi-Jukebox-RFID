@@ -1,5 +1,13 @@
 # Phoniebox: the RPi-Jukebox-RFID
 
+## Adustment G0LDL0CKE:
+Use App from MiczFlor and add an Attiny with an Polulu-Switch to turn on/ turn off Jukebox and use more InputButtons on Raspi with Interrups from Raspi.
+Feel free to contact me for more information.
+
+<img width="1200" height="1600" alt="IMG_4687" src="https://github.com/user-attachments/assets/e516e124-6f94-4cdc-beed-e203adf3f3fc" />
+
+
+
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MiczFlor/RPi-Jukebox-RFID/develop)
 
 [![Python Checks and Tests](https://github.com/MiczFlor/RPi-Jukebox-RFID/actions/workflows/pythonpackage.yml/badge.svg)](https://github.com/MiczFlor/RPi-Jukebox-RFID/actions/workflows/pythonpackage.yml)
@@ -12,8 +20,6 @@
 [![Matrix chat](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#phoniebox_community:matrix.org)
 
 ## Introduction
-Adustment G0LDL0CKE:
-Use App from MiczFlor and add an Attiny with an Polulu-Switch to turn on/ turn off Jukebox and use more InputButtons on Raspi with Interrups from Raspi
 
 Phoniebox is a contactless jukebox for the Raspberry Pi, playing audio files, playlists, podcasts, web streams and spotify triggered by RFID cards. All plug and play via USB, no soldering iron needed. It also features GPIO buttons control support.
 
