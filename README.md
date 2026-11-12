@@ -6,6 +6,9 @@ Feel free to contact me for more information.
 
 <img width="1200" height="1600" alt="IMG_4687" src="https://github.com/user-attachments/assets/e516e124-6f94-4cdc-beed-e203adf3f3fc" />
 
+<img width="1536" height="2048" alt="20221227_211857490_iOS" src="https://github.com/user-attachments/assets/568dcbd4-2b9d-4205-a931-1111913cc05d" />
+
+
 
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MiczFlor/RPi-Jukebox-RFID/develop)
